@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using MySql.Data.MySqlClient;
 namespace ProjectZ
-{
+{  //comment
     public partial class AddFarmer :  Form
     {
         public AddFarmer()
